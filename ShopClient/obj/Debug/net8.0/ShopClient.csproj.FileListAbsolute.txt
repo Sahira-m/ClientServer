@@ -1,0 +1,14 @@
+C:\MajidAssignment\SHOPS\ShopClient\bin\Debug\net8.0\ShopClient.exe
+C:\MajidAssignment\SHOPS\ShopClient\bin\Debug\net8.0\ShopClient.deps.json
+C:\MajidAssignment\SHOPS\ShopClient\bin\Debug\net8.0\ShopClient.runtimeconfig.json
+C:\MajidAssignment\SHOPS\ShopClient\bin\Debug\net8.0\ShopClient.dll
+C:\MajidAssignment\SHOPS\ShopClient\bin\Debug\net8.0\ShopClient.pdb
+C:\MajidAssignment\SHOPS\ShopClient\obj\Debug\net8.0\ShopClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\MajidAssignment\SHOPS\ShopClient\obj\Debug\net8.0\ShopClient.AssemblyInfoInputs.cache
+C:\MajidAssignment\SHOPS\ShopClient\obj\Debug\net8.0\ShopClient.AssemblyInfo.cs
+C:\MajidAssignment\SHOPS\ShopClient\obj\Debug\net8.0\ShopClient.csproj.CoreCompileInputs.cache
+C:\MajidAssignment\SHOPS\ShopClient\obj\Debug\net8.0\ShopClient.dll
+C:\MajidAssignment\SHOPS\ShopClient\obj\Debug\net8.0\refint\ShopClient.dll
+C:\MajidAssignment\SHOPS\ShopClient\obj\Debug\net8.0\ShopClient.pdb
+C:\MajidAssignment\SHOPS\ShopClient\obj\Debug\net8.0\ShopClient.genruntimeconfig.cache
+C:\MajidAssignment\SHOPS\ShopClient\obj\Debug\net8.0\ref\ShopClient.dll
